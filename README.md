@@ -1,17 +1,52 @@
-# Building products
+## Products & Projects
 
-I build and launch small software products, mobile apps, and web tools.
+### 🧠 Wellness & Self-Reflection
 
-## Projects
+- **[Blubee](https://github.com/YOUR_USERNAME/blubee)**  
+  Self-reflection, mental wellness, and personal growth app.
 
-- [Blubee](https://blubee.app) — self-reflection and mental wellness app
-- [CatchClock](https://catchclock.com) — time and productivity tool
-- [Gleamite](https://gleamite.com) — digital product
-- [Inkantic](https://inkantic.com) — creative tool
-- [KeepAlong](https://keepalong.com) — productivity tool
-- [LabelPeek](https://labelpeek.com) — label and product information tool
-- [RenderCar](https://rendercar.com) — automotive visualization tool
-- [RenoPeek](https://renopeek.com) — renovation and interior tool
-- [ShotsLeft](https://shotsleft.com) — photography tool
-- [TCG Valuer](https://tcgvaluer.com) — trading card valuation tool
-- [ToneWand](https://tonewand.com) — audio and music tool
+### 🛠️ Tools & Utilities
+
+- **[CatchClock](https://github.com/YOUR_USERNAME/catchclock)**  
+  A simple time and productivity tool.
+
+- **[LabelPeek](https://github.com/YOUR_USERNAME/labelpeek)**  
+  A tool for exploring product labels and information.
+
+- **[ShotsLeft](https://github.com/YOUR_USERNAME/shotsleft)**  
+  A photography utility for keeping track of remaining shots.
+
+### 🎨 Creative & Visual Tools
+
+- **[Gleamite](https://github.com/YOUR_USERNAME/gleamite)**  
+  A creative digital tool.
+
+- **[Inkantic](https://github.com/YOUR_USERNAME/inkantic)**  
+  A creative tool for digital creators.
+
+- **[RenderCar](https://github.com/YOUR_USERNAME/rendercar)**  
+  A tool for automotive visualization and rendering.
+
+- **[RenoPeek](https://github.com/YOUR_USERNAME/renopeek)**  
+  A tool for exploring renovation and interior ideas.
+
+### 🎮 Collectibles & Games
+
+- **[TCG Valuer](https://github.com/YOUR_USERNAME/tcgvaluer)**  
+  A tool for evaluating and exploring trading cards.
+
+### 🎵 Audio & Music
+
+- **[ToneWand](https://github.com/YOUR_USERNAME/tonewand)**  
+  A tool for exploring and working with sound and music.
+
+### 📱 More Projects
+
+- **[KeepAlong](https://github.com/YOUR_USERNAME/keepalong)**  
+  A lightweight productivity and habit-focused tool.
+
+---
+
+More experiments and products are always in progress.
+
+**Build → Launch → Learn → Repeat**
